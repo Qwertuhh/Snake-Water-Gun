@@ -4,6 +4,8 @@ Welcome to my project repository! This project showcases the programming concept
 
 Play and enjoy this interesting game that you play during our school life.
 
+[click here to hope on site!](https://qwertuhh-snake-water-and-gun.netlify.app)
+
 ## What I had learnt
 
 - Loops
